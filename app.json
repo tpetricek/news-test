@@ -2,7 +2,7 @@
   "name": "F# Times: Powered by type providers",
   "description": "A simple Suave.io web application that supports Azure and Heroku deployment",
   "website": "http://suave.io/",
-  "repository": "https://github.com/tpetricek/???",
+  "repository": "https://github.com/tpetricek/news-test",
   "logo": "https://raw.githubusercontent.com/SuaveIO/suave/gh-pages/images/logo.gif",
   "keywords": [ "suave", "fsharp" ],
   "env": {
